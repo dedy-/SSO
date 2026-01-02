@@ -259,6 +259,41 @@
       "study_program":"Anestesiologi & Terapi Intensif (Anesthesiology & Intensive Therapy)",
       "educational_program":"Spesialis 2 (Sub Specialist Program)"
    },
+   "55.00.01.01":{
+      "faculty":"KEDOKTERAN",
+      "study_program":"Kedokteran Keluarga Layanan Primer",
+      "educational_program":"Spesialis 1 (Specialist Program)"
+   },
+   "56.00.01.01":{
+      "faculty":"KEDOKTERAN",
+      "study_program":"Orthopaedi dan Traumatologi",
+      "educational_program":"Spesialis 2 (Sub Specialist Program)"
+   },
+   "57.00.01.01":{
+      "faculty":"KEDOKTERAN",
+      "study_program":"Urologi",
+      "educational_program":"Spesialis 2 (Sub Specialist Program)"
+   },
+   "58.00.01.01":{
+      "faculty":"KEDOKTERAN",
+      "study_program":"Pendidikan Dokter Spesialis Kedokteran Emergensi",
+      "educational_program":"Spesialis 1 (Specialist Program)"
+   },
+   "59.00.01.01":{
+      "faculty":"KEDOKTERAN",
+      "study_program":"Jantung dan Pembuluh Darah",
+      "educational_program":"Spesialis 2 (Sub Specialist Program)"
+   },
+   "60.00.01.01":{
+      "faculty":"KEDOKTERAN",
+      "study_program":"Ilmu Kesehatan Mata",
+      "educational_program":"Spesialis 2 (Sub Specialist Program)"
+   },
+   "61.00.01.01":{
+      "faculty":"KEDOKTERAN",
+      "study_program":"Dermatologi Venereologi dan Estetika",
+      "educational_program":"Spesialis 2 (Sub Specialist Program)"
+   },
    "01.00.02.01":{
       "faculty":"KEDOKTERAN GIGI",
       "study_program":"Pendidikan Dokter Gigi (Dental Education)",
